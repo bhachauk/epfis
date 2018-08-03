@@ -26,5 +26,9 @@ by a pump for the dual fuel automobile engine.
 
 ### Generated Test Pulse
 
-// TODO Image need to be rendered.
+<p align="center">
+<kbd>
+<img src="images/waveform.png" width="400" height=auto align="center" />
+</kbd>
+</p>
 
