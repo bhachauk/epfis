@@ -28,7 +28,7 @@ by a pump for the dual fuel automobile engine.
 
 <p align="center">
 <kbd>
-<img src="images/waveform.png" width="400" height=auto align="center" />
+<img src="imgs/waveform.png" width="400" height=auto align="center" />
 </kbd>
 </p>
 
