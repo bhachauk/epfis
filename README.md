@@ -7,7 +7,7 @@ by a pump for the dual fuel automobile engine.
 
 ### Apparatus
 
-###### ECU
+##### ECU
 
 - Arduino Board
 - Laptop with arduio installed laptop
@@ -19,7 +19,7 @@ by a pump for the dual fuel automobile engine.
 - Electronic Fuel injector
 - Fuel Electrical Pump
 
-###### Measurement
+##### Measurement
 
 - DSO (Digital Storage Oscilloscope)
 - Graduated cylinders / Volumetric flask 
@@ -31,4 +31,3 @@ by a pump for the dual fuel automobile engine.
 <img src="imgs/waveform.png" width="400" height=auto align="center" />
 </kbd>
 </p>
-
